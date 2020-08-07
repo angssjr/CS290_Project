@@ -1,0 +1,181 @@
+#banner{
+    background-color: #041E42;
+    padding-bottom: 4%;
+    top: 0;
+    left: 0;
+    background-image: url(Banner_Test_1.jpg);
+    background-repeat: no-repeat;
+    background-blend-mode: exclusion;
+    z-index: 3;
+    opacity: 80%;
+    position: relative;
+}
+
+body{
+    margin: 0;
+    background-color: #041E42;
+    font-family: 'Source Sans Pro', sans-serif;
+    justify-content: space-evenly;
+}
+
+.navBarWrapper{
+    opacity: 100%;
+    top: 0;
+    padding-top: 80px;
+    position: fixed;
+    width: 100%;
+    background-color: #041E42;
+}
+
+.navBar{
+    position: fixed;
+    z-index: 0;
+    width: 100%;
+    display: flex;
+    background-color: /*#ffffff*/ #041E42;
+}
+
+.wrap1{
+    padding-top: 60px;
+}
+
+li{
+    list-style: none;
+}
+
+.mainContent{
+    display: flex;
+    flex-flow: wrap;
+    height: 600px;
+    justify-content: space-between;
+}
+
+.newsContent{
+    padding-left: 10px;
+    width: 200px;
+    text-align: left;
+    opacity: 70%;
+}
+
+.mcFlex{
+    border: solid;
+    flex-grow: 0;
+    background-color: whitesmoke;
+    opacity: 100%;
+}
+
+.flex_midContainer{
+   display: flex;
+   width: 950px;
+   flex-wrap: nowrap;
+   overflow-x: auto;
+   -webkit-overflow-scrolling: touch;
+   -webkit-animation-delay: .5s;
+   -webkit-animation-direction: normal;
+   -ms-overflow-style: -ms-autohi
+}
+.carousel-item{
+    flex: 0 0 auto;
+}
+
+
+
+
+#votingVideo{
+    padding-left: 10px;
+    padding-top:70px;
+    caption-side: bottom;
+}
+
+
+
+.flex_news{
+    z-index: -1;
+    margin: 10px;
+    padding-right: 20px;
+    flex-grow: unset;
+    width: 10%;
+    background-color: #041E42;
+    color: #debb76;
+    border: thin;
+    box-shadow: inset #debb76;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #b22234;
+}
+
+
+
+.imgWrap1{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    opacity: 100%;
+    background-color: #041E42;
+    width: 100%;
+}
+
+#pdf{
+    margin-top: 50px;
+    padding-left: 10%
+}
+
+
+#electionImg{
+    height: 200px;
+    width: auto;
+
+}
+#LAVote{
+    height: 200px;
+    width: auto;
+    cursor: pointer;
+}
+#voteCABear{
+    height: 200px;
+    width: auto;
+    cursor: pointer;
+}
+
+.flex_middle{
+    margin-top: 30px;
+    height: 100px;
+}
+
+.navButton{
+    color: black;
+    transition: 0.5s;
+    background-size: 100% auto;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    width: 200px;
+    display: inline-block;
+    box-shadow: 0 0 20px rgb(150, 149, 149);
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 10px;  
+    border-radius: 2.5px;
+    border-style: solid 5%;
+    border-color: black;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    margin: 10px;
+    font-weight: bold;
+    /* text-transform: uppercase; */
+    color: whitesmoke;
+    flex-direction: row-reverse;
+    flex-basis: 25%;
+}
+
+
+.navButton {background-image: linear-gradient(to right, #BF0A30, #002868  101%, black 100%)}
+.navButton { background-position: right center; }
+.navButton{
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    margin: 8px 10px 12px;
+}
+
+#disclaimer{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #9e8a54;
+}

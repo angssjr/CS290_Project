@@ -1,0 +1,30 @@
+Project sources:
+
+Voting Pic:
+https://d3n8a8pro7vhmx.cloudfront.net/fairvote/pages/5190/meta_images/original/iStock_000005814659_Large.gif?1489698215
+
+Voting Video:
+How to vote in L.A. County in 2020
+
+CA voter-registration page:
+https://www.sos.ca.gov/elections/voter-registration/
+
+Bear_Vote California:
+https://newsroom.ucla.edu/dept/faculty/know-your-california-candidates
+
+LA Vote:
+https://www.lapuente.org/government/elections
+https://www.lapuente.org/Home/ShowPublishedImage/2313/636699486075770000
+
+National Registration Form:
+https://www.eac.gov/voters/national-mail-voter-registration-form
+
+
+LA 2020 Elections:
+https://www.lavote.net/docs/rrcc/Election-Info/scheduled_elections_2020.pdf?v=34
+
+Carousel Code:
+https://www.w3schools.com/bootstrap4/bootstrap_carousel.asp
+
+Vote by Mail CA:
+https://www.latimes.com/california/story/2020-04-16/skelton-vote-by-mail-elections-california-coronavirus
