@@ -78,6 +78,7 @@ li{
 }
 
 .flex_midContainer{
+    z-index: -1;
    display: flex;
    width: 950px;
    flex-wrap: nowrap;
@@ -189,6 +190,7 @@ li{
 
 .gcse-search{
     margin-left: 35%;
+    z-index: -1;
 }
 
 

@@ -75,8 +75,18 @@
         <iframe id= "votingVideo" width="500px" height="290px" src="https://www.youtube.com/embed/fC_-8Nl-O3U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </article>
       
+      <fieldset class= "mcFlex cityForm">
+        <form action="POST" id="getCity">
+          <legend>Show Local Elections</legend>
+        <label for="city">City:</label>
+        <input type="text" name="city" id="city">
+        <input type="submit" id="urlSubmit">
+        </form>
+      </fieldset>
+
       <script async src="https://cse.google.com/cse.js?cx=003240722902595198873:urozepmpcxw"></script>
-      <div class="gcse-searchresults-only"></div>
+      <div class="gcse-search"></div>
+      
       
       <article id="pdf">
         <embed src="scheduled_elections_2020.pdf" type="application/pdf" width="1500" height="600" />
@@ -93,7 +103,7 @@
       
     </section>
   </section>
-
+ 
   <script src='main.js'> 
     
 </script>
