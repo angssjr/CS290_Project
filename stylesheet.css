@@ -77,17 +77,6 @@ li{
     opacity: 100%;
 }
 
-.flex_midContainer{
-    z-index: -1;
-   display: flex;
-   width: 950px;
-   flex-wrap: nowrap;
-   overflow-x: auto;
-   -webkit-overflow-scrolling: touch;
-   -webkit-animation-delay: .5s;
-   -webkit-animation-direction: normal;
-   -ms-overflow-style: -ms-autohi
-}
 .carousel-item{
     flex: 0 0 auto;
 }
