@@ -24,7 +24,7 @@ LA 2020 Elections:
 https://www.lavote.net/docs/rrcc/Election-Info/scheduled_elections_2020.pdf?v=34
 
 Carousel Code:
-https://www.w3schools.com/bootstrap4/bootstrap_carousel.asp
+https://www.w3schools.com/howto/howto_js_slideshow.asp
 
 Vote by Mail CA:
 https://www.latimes.com/california/story/2020-04-16/skelton-vote-by-mail-elections-california-coronavirus
